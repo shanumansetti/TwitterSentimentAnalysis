@@ -42,28 +42,6 @@ The ultimate objective is to create a reliable system capable of automatically i
 - NLTK / spaCy (for NLP tasks)
 - Matplotlib / Seaborn (for data visualization)
 
-## Getting Started
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/twitter-sentiment-classification.git
-   cd twitter-sentiment-classification
-   ```
-
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Preprocess the data and train the model:
-   ```bash
-   python train_model.py
-   ```
-
-4. Run tests and evaluate the model:
-   ```bash
-   python evaluate_model.py
-   ```
 
 ## Conclusion
 
